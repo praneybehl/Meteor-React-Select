@@ -3,7 +3,7 @@ React-Select
 
 A Select control built with and for [React](http://facebook.github.io/react/index.html). Initially built for use in [KeystoneJS](http://www.keystonejs.com).
 
-This package wraps the react component [React-Select](https://raw.githubusercontent.com/JedWatson/react-select) for Meteor.
+This package wraps the react component [React-Select](https://github.com/JedWatson/react-select) for Meteor.
 
 ### Adding it to your project
 
